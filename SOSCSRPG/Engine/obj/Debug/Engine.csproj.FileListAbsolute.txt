@@ -1,0 +1,6 @@
+C:\Users\Rasmus\Documents\Visual Studio 2017\Projects\SOSCSRPG\Engine\bin\Debug\Engine.dll
+C:\Users\Rasmus\Documents\Visual Studio 2017\Projects\SOSCSRPG\Engine\bin\Debug\Engine.pdb
+C:\Users\Rasmus\Documents\Visual Studio 2017\Projects\SOSCSRPG\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\Documents\Visual Studio 2017\Projects\SOSCSRPG\Engine\obj\Debug\Engine.g.resources
+C:\Users\Rasmus\Documents\Visual Studio 2017\Projects\SOSCSRPG\Engine\obj\Debug\Engine.dll
+C:\Users\Rasmus\Documents\Visual Studio 2017\Projects\SOSCSRPG\Engine\obj\Debug\Engine.pdb
